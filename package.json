@@ -113,5 +113,8 @@
         "@xmldom/xmldom": "0.8.15",
         "devalue": "5.9.4",
         "fflate": "0.4.9"
+    },
+    "dependencies": {
+        "hono": "4.13.5"
     }
 }

@@ -110,6 +110,7 @@
         "@tokens-studio/sd-transforms": {
             "style-dictionary": "5.4.4"
         },
-        "@xmldom/xmldom": "0.8.15"
+        "@xmldom/xmldom": "0.8.15",
+        "devalue": "5.9.4"
     }
 }
